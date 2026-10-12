@@ -1,0 +1,17 @@
+# Template used to analyze the data with MiXCR
+# Reference json file (chircus-TRB_MiXCR_reference.json) used in the below analysis has been provided as part of this supplementary data
+
+mixcr analyze generic-amplicon \
+    --library chircus-TRB_MiXCR_reference \
+    --species chircus \
+    --rna --rigid-left-alignment-boundary --floating-right-alignment-boundary C \
+    --assemble-clonotypes-by VDJRegion \
+    --export-productive-clones-only \
+    --threads 8 \
+    <READ1_FASTQ> <READ2_FASTQ> <OUTPUT_NAME>
+
+
+# Custom python script (fix_mixcr_tsv_v2.py) was used to remove Scores from the columns "allVHitsWithScore", "allDHitsWithScore", "allJHitsWithScore" and "allCHitsWithScore" (renamed as "allVHits", "allDHits", "allJHits" and "allCHits") to make them compatible with Immunarch analysis.
+# Clones with readCounts 2 or less were removed
+
+python3 fix_mixcr_tsv_v2.py <OUTPUT_TSV> > <OUTPUT_CLEANED_TSV>

@@ -1,0 +1,1816 @@
+[ {
+  "taxonId" : 9925,
+  "speciesNames" : [ "chircus" ],
+  "genes" : [ {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#V1_nt",
+    "name" : "V1_nt",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "V1_nt"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 96,
+      "CDR2Begin" : 147,
+      "FR3Begin" : 165,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v2_F",
+    "name" : "v2_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v2_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v4_f",
+    "name" : "v4_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v4_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.2_f",
+    "name" : "v5.2_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.2_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.3_f",
+    "name" : "v5.3_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.3_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.5_f",
+    "name" : "v5.5_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.5_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 261,
+      "VEnd" : 278
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.6_f",
+    "name" : "v5.6_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.6_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.8_f",
+    "name" : "v5.8_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.8_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.9_f",
+    "name" : "v5.9_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.9_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.12_f",
+    "name" : "v5.12_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.12_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.14_F",
+    "name" : "v5.14_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.14_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.16_f",
+    "name" : "v5.16_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.16_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.17_f",
+    "name" : "v5.17_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.17_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.18_f",
+    "name" : "v5.18_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.18_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.19_f",
+    "name" : "v5.19_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.19_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.21_f",
+    "name" : "v5.21_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.21_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.22_f",
+    "name" : "v5.22_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.22_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.24_f",
+    "name" : "v5.24_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.24_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.27_f",
+    "name" : "v5.27_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.27_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.29_f",
+    "name" : "v5.29_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.29_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v5.30_f",
+    "name" : "v5.30_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v5.30_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 286
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.1_F",
+    "name" : "v6.1_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.1_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.5_F",
+    "name" : "v6.5_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.5_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 286
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.6_F",
+    "name" : "v6.6_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.6_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.11_F",
+    "name" : "v6.11_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.11_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.16_F",
+    "name" : "v6.16_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.16_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.17_F",
+    "name" : "v6.17_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.17_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.18_F",
+    "name" : "v6.18_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.18_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.19_F",
+    "name" : "v6.19_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.19_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 286
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.20_orf",
+    "name" : "v6.20_orf",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.20_orf"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.23_orf",
+    "name" : "v6.23_orf",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.23_orf"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.26_f",
+    "name" : "v6.26_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.26_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.28_f",
+    "name" : "v6.28_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.28_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 141,
+      "FR3Begin" : 159,
+      "CDR3Begin" : 267,
+      "VEnd" : 284
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v6.29_f",
+    "name" : "v6.29_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v6.29_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 286
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v7.1_f",
+    "name" : "v7.1_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v7.1_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v7.2_F",
+    "name" : "v7.2_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v7.2_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v12.1_f",
+    "name" : "v12.1_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v12.1_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v12.2_f",
+    "name" : "v12.2_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v12.2_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v15_f",
+    "name" : "v15_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v15_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v16_f",
+    "name" : "v16_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v16_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v19_F",
+    "name" : "v19_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v19_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v20_F",
+    "name" : "v20_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v20_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 96,
+      "CDR2Begin" : 147,
+      "FR3Begin" : 168,
+      "CDR3Begin" : 279,
+      "VEnd" : 293
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v21.1_F",
+    "name" : "v21.1_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v21.1_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v21.3_F",
+    "name" : "v21.3_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v21.3_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v21.4_f",
+    "name" : "v21.4_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v21.4_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v21.5_f",
+    "name" : "v21.5_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v21.5_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v21.6_f",
+    "name" : "v21.6_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v21.6_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 273,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v22_f",
+    "name" : "v22_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v22_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 75,
+      "FR2Begin" : 90,
+      "CDR2Begin" : 141,
+      "FR3Begin" : 159,
+      "CDR3Begin" : 267,
+      "VEnd" : 280
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v24_f",
+    "name" : "v24_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v24_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v25_f",
+    "name" : "v25_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v25_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v26_f",
+    "name" : "v26_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v26_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v28_f",
+    "name" : "v28_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v28_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 287
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v29_F",
+    "name" : "v29_F",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v29_F"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 93,
+      "CDR2Begin" : 144,
+      "FR3Begin" : 165,
+      "CDR3Begin" : 276,
+      "VEnd" : 290
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_v_genes_fixed.fa#v30_f",
+    "name" : "v30_f",
+    "geneType" : "V",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "v30_f"
+    },
+    "anchorPoints" : {
+      "FR1Begin" : 0,
+      "CDR1Begin" : 78,
+      "FR2Begin" : 96,
+      "CDR2Begin" : 147,
+      "FR3Begin" : 162,
+      "CDR3Begin" : 270,
+      "VEnd" : 284
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_d_genes.fa#chTRBD1",
+    "name" : "chTRBD1",
+    "geneType" : "D",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chTRBD1"
+    },
+    "anchorPoints" : {
+      "DBegin" : 0,
+      "DEnd" : 13
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_d_genes.fa#chTRBD2",
+    "name" : "chTRBD2",
+    "geneType" : "D",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chTRBD2"
+    },
+    "anchorPoints" : {
+      "DBegin" : 0,
+      "DEnd" : 17
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_d_genes.fa#chTRBD3",
+    "name" : "chTRBD3",
+    "geneType" : "D",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chTRBD3"
+    },
+    "anchorPoints" : {
+      "DBegin" : 0,
+      "DEnd" : 16
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ1-1",
+    "name" : "chJ1-1",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ1-1"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 18,
+      "FR4End" : 46
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ1-2",
+    "name" : "chJ1-2",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ1-2"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 15,
+      "FR4End" : 43
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ1-4",
+    "name" : "chJ1-4",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ1-4"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ1-5",
+    "name" : "chJ1-5",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ1-5"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ1-6",
+    "name" : "chJ1-6",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ1-6"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 24,
+      "FR4End" : 52
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ2-1",
+    "name" : "chJ2-1",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ2-1"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ2-2",
+    "name" : "chJ2-2",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ2-2"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ2-3",
+    "name" : "chJ2-3",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ2-3"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ2-4",
+    "name" : "chJ2-4",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ2-4"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ2-5",
+    "name" : "chJ2-5",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ2-5"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 18,
+      "FR4End" : 46
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ2-6",
+    "name" : "chJ2-6",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ2-6"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 24,
+      "FR4End" : 52
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ2-7",
+    "name" : "chJ2-7",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ2-7"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 18,
+      "FR4End" : 46
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ3-1",
+    "name" : "chJ3-1",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ3-1"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ3-2",
+    "name" : "chJ3-2",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ3-2"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ3-3",
+    "name" : "chJ3-3",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ3-3"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 21,
+      "FR4End" : 49
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_j_genes_fixed.fa#chJ3-4",
+    "name" : "chJ3-4",
+    "geneType" : "J",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chJ3-4"
+    },
+    "anchorPoints" : {
+      "JBegin" : 0,
+      "FR4Begin" : 18,
+      "FR4End" : 46
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_c_genes.fa#chTRBC1",
+    "name" : "chTRBC1",
+    "geneType" : "C",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chTRBC1"
+    },
+    "anchorPoints" : {
+      "CBegin" : 0,
+      "CEnd" : 1675
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_c_genes.fa#chTRBC2",
+    "name" : "chTRBC2",
+    "geneType" : "C",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chTRBC2"
+    },
+    "anchorPoints" : {
+      "CBegin" : 0,
+      "CEnd" : 1630
+    }
+  }, {
+    "baseSequence" : "file://seq/chircus_c_genes.fa#chTRBC3",
+    "name" : "chTRBC3",
+    "geneType" : "C",
+    "isFunctional" : true,
+    "chains" : [ "TRB" ],
+    "meta" : {
+      "comments" : "chTRBC3"
+    },
+    "anchorPoints" : {
+      "CBegin" : 0,
+      "CEnd" : 1423
+    }
+  } ],
+  "meta" : {
+    "comments" : [ "Imported from: /work/seq/chircus_c_genes.fa", "Imported from: /work/seq/chircus_d_genes.fa", "Imported from: /work/seq/chircus_j_genes_fixed.fa", "Imported from: /work/seq/chircus_v_genes_fixed.fa" ]
+  },
+  "sequenceFragments" : [ {
+    "uri" : "file://seq/chircus_c_genes.fa#chTRBC1",
+    "range" : {
+      "from" : 0,
+      "to" : 1675
+    },
+    "sequence" : "GACAATCTGAGCCGAGTGCACCCGCCCAAGGTGGCTGTGTTCGAACCCTCGGAAGCAGAGATCTCCCGGACCCAGAAGGCCACCCTCGTGTGCCTGGCCACGGGCTTTTACCCCGACCACGTGGAGCTGACCTGGTGGGTGAACAGGAAGCAGGTCACCACTGGGGTCAGCACAGACCCTGAGCCCTACAAAGAGGACCTCACGCAGAATGACTCCAGATACTGTCTGAGCAGCCGGCTGAGGGTGACCGCCGCCTTCTGGCACAACCCCCGCAACCACTTCCGATGCCAAGTCCAGTTCTACGGGCTCACGGACCAGGACCAGTGGGAGGAGCAGGACAGGGCCAAGCCCGTCACCCAGAACATCAGCGCCGAGACCTGGGGCAGAGCAGGTGAGCCGGCCCGGAGGGAGTCAGAGCCGACAGAGGAGAGATCAGGGAGAGAGCGGGAAGGCAGAGTGAAGAGCGGGGGAGCCCAGCAAGAGGGTGGACAGGGCACCTCCTCGGGCGAACTCCTCCCCCGGATCCAGATCCTCAGCCCAGCTCAGCTGTGCTGGTGGGTGCCCTCCCTGCCCACCTGCACAGCTCAGGGTGCCAGTGGTGGGTCCCCATCCCCTTCAGTGCTGCCTCCTTCATGACCCTGAGGATGCTGTGTCCACATTGACACAGGCAGTGCTGGGACTCTGATCAGAGGCTGCTCAGAGCCTGGGGGTCAGTGCTGACTAAAAGCTAGCTTAGTAGGTCTTTTTCATTTATTTGTTTTGTTTTAAACATCTCAAAATATCACATATTTATGATTGCCTAGTTTTAATGTATCAGGAATCTGGGCATAGCTTAGCTGGCTCGTTTATCTCAAGATGCTACAATCAGATGTCAGCCAAAGCTGGAGTCTTATCTGAAGGCTCAGCTGGGGCAAGTCCACTCCCAAGTTCACGTGGTTGTTGCAAGATTTAGCATCTTTCCAGCTATTGAACTGAGGAAGGCTGGCTTAGCTTTGAATCTGCTTTAGAAGATGCAGGCTCTCATCCATTTCCCTCCCCTTTTTTCTTTCAGACTGTGGCGTCACCTCCGGTAAGTGGCCTTCTCCTCCTATGTCCCTATCTCCTATTATCTTTGCTCTGGAATCAGAGAATGCAAAACCCATGGACCCTGGTGGGGGCTATGAGGGAAGGAGGCCACAGATGACCAGCTCACAGGTACCTACCTGCTCTCCCTTTCTGCCAACAGCGTCTTATCAGCAAGGCGTCCTGTCTGCCACCCTCCTCTATGAGATCCTGCTGGGGAAGGCCACCCTGTATGCTGTGCTGGTCAGCGCCCTGGTGCTGATGGCCATGGTAAGGAGGGGCCAGGATAGGGCAGGCAGGTTGGAGGTGACACTGGAAATGCAGCAACACAGACCTAGGAATGTAGAGACCCCACCAGGACCAGAGGTGGGCAGAGAGGAAGAAGGGGTTCACCCACATGCCTCAGAAGACACCTTGCCCCTCTGTGATCACAGTGGAAGAGCCGTGCTGGGCAGGAGAAACTGGGGTCACCAGAAAACCAGTGGCTGGATGTTGGGAGGAGACCTGCTATTCGTCTTGTCAGGAGGACACCCTGCTTCCTCTCGGTCCCCAGCACTTCTGGCTCCTGGTAACCCTCACACCTTCTCTTCCTCAGGTCAAGAGAAAAGATTCC"
+  }, {
+    "uri" : "file://seq/chircus_c_genes.fa#chTRBC2",
+    "range" : {
+      "from" : 0,
+      "to" : 1630
+    },
+    "sequence" : "GACGATCTGAGACAGGTGCACCCGCCCAAGGTGGCTGTGTTCGAACCCTCGGAAGCAGAGATCTCCCGGACCCAGAAGGCCACCCTCGTGTGCCTGGCCACAGGCTTCTACCCCGACCACGTGGAGCTGACCTGGTGGGTGAACAGGAAGCAGGTCACCACTGGGGTCAGCACGGACCCTGAGCCCTACAAAGAGGACCTCACGCAGAATGATTCCAGATATTGTCTGAGCAGCCGGCTGAGGGTGACCGCCGCCTTCTGGCACAACCCCCGCAACCACTTCCGATGCCAAGTCCAGTTCTACGGGCTCACGGACCAGGACCAGTGGGAGGAGCAGGACAGGGACAAGCCCGTCACCCAGAACATCAGCGCCGAGACCTGGGGCAGAGCAGGTGAGCCGGCCCAGAGGGAGTCAGAGCCGACAGAGGAGAGATCAGGGAGAGAGCAGGAAGGCAGAGTGAAGAGCGGGGGAGCCCAGCAAGAGGGTGGACAGGGCACCACCTCAGGCGAACTCCTCCCCTGGATCCAGATCCTCAGCCCAGCTCAGCTGTGCTGGTGGGTGCCCTCCCTGCCTGCCTGCACAGCTCAGGGTGCCAGTGGTGGGTCCCCATCCCCTTCAGTGCTGCCTCCTTCATGACCCTGAGGATGCTGTGTCCACATTGGCACAGGCAGTGCTGGGACTCTGATCAGAGGCTGCTCGGAGCCTGGGGGTCAGTGCTAACTAAAAGCTAGCTTAGTAGGTCTTTTTCATTTATTTGTTTTGTTTTAAGCATCTCAAAGTATCACATATTTATGATTGCCTAGTTTTAATGTATCAGGAATCTGGGCATAGCTTAGCTGGCTCGTTTATCTCAAGATGCTACAATCAGATGTCAGCCAAAGCTGGAGTCTTATCTGAAGGCTCAGCTGGGGCAAGATCCACTCCCAAGTTCACGTGATTGTTGCAAGTTTTAGCATCTTGCCAGCTATTGGACTGAGGAAGGCTGGCTTAGCTTTGAATCTGCTTTAGAAGATGCAGGCTCTCATCCATTTCCCTCCCCTTTTGTTTTCAGACTGTGGCGTCACCTCCGGTGAGTAGCCTTCTGCTTCCTTGTCTCCATCCCCATGGTCATTGCTCTGGAACCAGAGACAGAGGGCCCATGGACACTGGTTGGGTGGGGGAGTGTAAAGGGGGAGGAGGCTAGGGATACCTCCTCACAGGTATCTACCTGTTCTCCCTTCCTGCCAACAGCGTCTTATCAGCAAGGCGTCCTGTCTGCCACCCTCCTCTATGAGATCCTGCTGGGGAAGGCCACCCTGTACGCTGTGCTGGTCAGCGCCCTGGTGCTGATGGCCATGGTAAGGAGGGGGCCAGGATGAGAGTGTGATGAAAGGAAAGTGTGGAGCATCATGCAGGGGAGCTGAGGGGTCTCGGAATTGTGTCCTGACATCTCCGTGGAGTTCCAGTGGGGCTGCCAGACTGGGGAGAAAGTACAGAGTTCATCACAGACAGAACGCGGCTTTGAAGGATAGGGAGAGCCCTCCCAAAAATCAGACCCCAGAATCAGCATCCTCTGACCCAGCCCTACTGTTCCATGGCCCCTGGCATCCTGACGACATCCTCTCTTCCTCAGGTTAAGAAAAAGGATTCC"
+  }, {
+    "uri" : "file://seq/chircus_c_genes.fa#chTRBC3",
+    "range" : {
+      "from" : 0,
+      "to" : 1423
+    },
+    "sequence" : "GACGATCTGAGCCGGGTGCACCCGCCCAAGGTGGCTGTGTTCGAACCCTCGGAAGCAGAGATCTCCCAGACCCAGAAGGCCACCCTCGTGTGCCTGGCCACGGGCTTCTACCCCGACCACGTGGAGCTGACCTGGTGGGTGAACAGGAAGCAGGTCACCACTGGGGTCAGCACAGACCCTGAGCCCTACAAAGAGGACCTCACGCAGAATGACTCCAGATACTGTCTGAGCAGCCGGCTGAGGGTGACCGCCGCCTTCTGGCACAACCCCCGCAACCACTTCCGATGCCAAGTCCAGTTCTACGGGCTCACGGACCAGGACCAGTGGGACGAGCAGGACAGGGACAAGCCCGTCACCCAGAACATCAGCGCCGAGACCTGGGGCAGAGCAGGTGAGCCGGCCCGGAGGGAGTCAGAGCCAACAGAGGAGAGATCAGGGAGAGAGCAGGAAGGCAGAGTGAAGAGCGGGGGAGCCCAGCAAGAGGGTGGACAGGGCACCTCCTCGGGCGAACTCCTCCCCCGGATCCAGATCCTCAGCCCAGCTCAGCTGTGCTGGTGGGTGCCCTCCCTGCCCACCTGCACAGCTCAGGGTGCCAGTGGTGGGTCCCCATCCCCTTCAGTGCTGCCTCCTTCATGACCCTGAGGATGCCGTGTCCACATTGGTACAGGCAGTGCTGGGACTCTGATCAGAGGCTGCTTGGAGCCTGGGGGTCATTGCTGACTAAAAGACTGACTTAGTTTTGAATCGGGTTTAGAAGATGCAGGCTCTCATCCATTTCCCTCCCCCTTTTTTTTCAGACTGTGGTGTCACCTCCGGTGAGTAGCCCTCTGCTTCTTTGTCTCCATCCCTATGGTCATTGCTCTGGAACCAGAGACAGAGAACCCATGGACACTGGTTGGGGAGGTGTAAAGGGGGAGGAGGCCAGTGATACCTGCTCACAGGTACCTACCTGCTCTCCCTTTCTGCCAACAGCATCTTATCAGCAAGGCGTCCTGTCTGCCACCCTCCTCTATGAGATCCTGCTGGGGAAGGCCACCCTGTACGCTGTGCTGGTCAGCGCCCTGGTGCTGATGGCCATGGTAAGGAGGGGCCAGGATGGGGCAGGCAGGTTGGAGGTGACACTGGAAATGCAGCAACACAGACCTAGGAATGTAGAGACCCCACCAGGACCAGAGGTGGGCAGAGAGGAAGAAGGGGTTCACCCACATGCCTCAGAAGACACCTTGCCCCTCTGTGATCACAGTGGAAGAGCCGTGCTGGGCAGGAGAAACTGGGGTCACCAGAAAACCCAATGGCTGGATGTTGGGAGGAGACCTGCTATTCGTCTTGTCAGTGGGACACCCTGCTTCCTCTCGGTCCCCAGCACTTCTGGCTCCTGGTAACCCTCACACCTTCTCTTCCTCAGGTCAAGAGAAAAGATTCC"
+  }, {
+    "uri" : "file://seq/chircus_d_genes.fa#chTRBD1",
+    "range" : {
+      "from" : 0,
+      "to" : 13
+    },
+    "sequence" : "GGGACAGGGGGGC"
+  }, {
+    "uri" : "file://seq/chircus_d_genes.fa#chTRBD2",
+    "range" : {
+      "from" : 0,
+      "to" : 17
+    },
+    "sequence" : "GGGGCTGGGGGGGTGGG"
+  }, {
+    "uri" : "file://seq/chircus_d_genes.fa#chTRBD3",
+    "range" : {
+      "from" : 0,
+      "to" : 16
+    },
+    "sequence" : "GGACTTTGGGGGGGGC"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ1-1",
+    "range" : {
+      "from" : 0,
+      "to" : 46
+    },
+    "sequence" : "AACACTGAGGTTTTCTTTGGAAAAGGCACCAGGCTCACGGTTGTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ1-2",
+    "range" : {
+      "from" : 0,
+      "to" : 43
+    },
+    "sequence" : "TATGAATATCACTTCGGCCCAGGGACCAAGCTGACAGTTGTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ1-4",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "ACTAATGAAAGACTCTATTTCGGCAATGGGACGAAGCTTTCCGTCTTGG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ1-5",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "AGCAACCAGGCACAGCACTTTGGACACGGGACCTGGCTCGCCGTCCTGG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ1-6",
+    "range" : {
+      "from" : 0,
+      "to" : 52
+    },
+    "sequence" : "GCCTATAATTCGCCCCTCCACTTTGGGATCGGCACCAGGCTCACCGTGACAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ2-1",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "TCCTATGGGGAGCTGCACTTCGGGTCAGGGACCAGGCTCACCGTGCTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ2-2",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "AACACAGATCCCCTTTACTTTGGAGCTGGTTCCAAGCTGACTGTGCTGG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ2-3",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "AGCAATAACCCTCTGCATTTCGGAGGGGGCACTCGGCTGTTGGTACTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ2-4",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "AGTACAGACACGCAGTACTTCGGCCCGGGAACCCGGCTGTCGGTGCTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ2-5",
+    "range" : {
+      "from" : 0,
+      "to" : 46
+    },
+    "sequence" : "ACTCAGACCCAGTACTTTGGGCCTGGCACGCGGCTCCTGGTGCTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ2-6",
+    "range" : {
+      "from" : 0,
+      "to" : 52
+    },
+    "sequence" : "TTTGCAGGCGCCGCCCTGACCTTCGGGGCCGGCAGCCGGCTGACGGTGGTGG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ2-7",
+    "range" : {
+      "from" : 0,
+      "to" : 46
+    },
+    "sequence" : "TCCTATGAGCAGTATTTCGGCCCAGGCACCAAGCTCACGGTCGTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ3-1",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "TCCTATGATGAGCTGCACTTCGGGCCAGGGACCAGGCTCACCGTGCTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ3-2",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "AACGCCGCGCAGCTGTACTTTGGAGCTGGTTCCAAGCTGACTGTGCTGG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ3-3",
+    "range" : {
+      "from" : 0,
+      "to" : 49
+    },
+    "sequence" : "AGCCAAAGCACTCAGTACTTCGGCGCGGGCACTCGGCTGTCGGTGCTAG"
+  }, {
+    "uri" : "file://seq/chircus_j_genes_fixed.fa#chJ3-4",
+    "range" : {
+      "from" : 0,
+      "to" : 46
+    },
+    "sequence" : "TCAGAGACGCAGTACTTCGGGCCGGGCACGCGGCTCCTGGTGCTAG"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#V1_nt",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "ACGAGCTTGGTGGAGCAAAAGCCCAGGTGGGTCCTGGTACCTCACGGACAGGCTGAAACCCTGCGGTGCATCCTGAAGGATTCCCAGTACCCCTGGATGAGCTGGTACCAGCAGGATCTCAGGGGGCAACTACAGGTGCTGGCCAGTCTGCGGAGTACCGGGGATGAGGAAGTCATAAACCTCCCTGGAGCGAATTACCGGGCCACGCGGGTCAGTGAGAGCGAGCTGAGCCTACACGTGGCCAATGTGACCCAGGGCAGAACGCTGTTCTGCACCTGCAGTAAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v12.1_f",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "AACTTAGGAGTCACTCAGACCCCTAGGCATGAGGTGACAGAAAAGGGACAGGCAGTCACTCTGAGTTGTGAGCCGATTAAAAGCCACACAGCCCTTTATTGGTACAGACAGACCTCGGTGCGGGGACTGGAGTTACTGATTTACTTCCGCAGTGAAGCTCCTGTTGACGAGTCGGGGATGCCCAAGGACCGATTCTCAGCTAAGATGCCAAACGCATCGTTCTCCACTCTGAAAATCCAGCCCACAGATCCTGGGGACTCGGCCACGTATCTCTGTGCCAGCAGCAAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v12.2_f",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GATGCTGGAGTCACCCAGACCCCTAGGCATGAGGTGACAGAAAAGGGACAGGCAGTCACTCTGAGTTGTGAGCCGATTAAAAGCCACGCTGCTCTTTTTTGGTACAGACAGACCTCGGTGCGGGGACTGGAACTGCTGATATATTTCAACAACCAATCTCCTGTCGACGAGTCAGGGATGCCAAAGGACCGATTCTCAGCTAAGATGCCTAACGCATCGTTCTCCACTCTGAAAATCCAGCCCACAGAGCCTGGGGACTCGGCCACGTACCTCTGTGCCAGCAGCAAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v15_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GGAGCCATGGTCATTCAGAACCCAAGATACCTGGTTACCGGGCTGGGAAAACCAGTGACCCTGAGCTGTTCTCAGGATATGAAGCATGATGTCATGTACTGGTACCAACAGAAGCCAAGCCAAGCACCAAAACTGCTGTTGTACTACTATGACAAAGAAATCACCAGGGAAAAAAACACCTCTGAAAACTTCCAGTCCAGCCGGCCTAACACCTCTTTCTGTTCTCTTGACATCCGCTCGGCAGGCCTGGGGGACTCAGCCGTGTATCTCTGTGCCAGCAGTAGAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v16_f",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GAGGCAGAAGTCACCCAGACTCCAGGGCACCTGGTTCAAGGGAAAGGACTGGAAGTGGAAATGTATTGTGTTCCCAAAAAAGGACATATTTATGTTTTCTGGTATCAGCAGATCCTGGCAAAAGAGTTCAAGTTCTTGATTTCCTTCCAAAATGATAAAGTCTTGGATGATAAAGAGATGCCCAAGAAGAGATTTTCAGCTAAGTGCCCCTCAAACTCACCTTGTAGTCTGAAGATCCAGCCTGCAGAGCCACAGGACTCAGCTATGTATTTCTGTGCCAGCAGTGATTG"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v19_F",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GCTGGGGAGGTCACTCAGACCCCTAAATACCTGCTCAAAAAGGAAGGTGGAGCTGTGACCCTGGAATGTGAACAGGATTTTGATTACGACTCAATGTACTGGTACCGACAAGACCCAGGTCTAGGACTGAGGCGGATCTTCTTCTCGCAAGTTGTAAAGGATGTTCAGGAAGAAGACATAGCTAAAGGCTACAGCGCTTCTCGCGAAAAGAAGCCATTCTTTCCTCTTACTGTGACATCAGCACAAAAAAACCAGACGGCTCTATATCTCTGTGCTGCTAGTAGAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v20_F",
+    "range" : {
+      "from" : 0,
+      "to" : 293
+    },
+    "sequence" : "GGCGCTGTCGTCTCTCAGCAGCCCCGCAGGGCTGTCAGCAAGAGTGGAGCCTCTGTGACCATCGAGTGCCGTGCAGTGGACTTTCAAGCCACAACTGTGTTCTGGTACCGTCAGTTCCCGAAACGCGGCCTCGTGCTGATGGCAACTTCTAATGCAGGCACTGATGCCACATACGAACAAGGTTATAACAAGGACAAGCTTCCCATCAGTCAGCCAAACCTAACATTTTCATCTCTGATGGTGATGAATGTGGATCCTGCAGACAGCAGCCTCTACTTCTGTGGTGCTAGAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v21.1_F",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GACACTGAGGTCACCCAGAGTCCCAGTCATCTGGTCAAAGGAAAAGACCAGAAAGCAAAGATGGATTGTGTTCCCATAAAAGGACACTCTTATGTTTACTGGTATCGCAAGAAGCCAGAAGGAGCATTTGAGTTTTTGGTTTACTTACAGAATCAAGATGTTGTGGAAGATACAGCCATGTTCAAACAGCAATTTTCAGCTGACTGCCCCCCAAACTCACCCTGCAGCCTGGAAATCAAGTCCACCAAGGCAGCGGACTCAGCTCTGTATTTCTGTGCCAGCAGCCAGTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v21.3_F",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GACATTGAGGTCACCCAGAGTCCCAGCCATCTGGTCAAAGGAAAAGACCAGAGAGCAAAAATGTACTGTGTCCCCAAAAAAGGACACTCTTATGTTTACTGGTATCGCAGGAAGCTGGAAGAAGCATTCGAGTTCTTGGTTTACTTACAGGATGAAAAAATTATAGAAGATACAGACATGTTCAAACAGAGATTTTCAGCTGAGTGCCCCCAAACCTCACCCTGCAGCCTGGGAATCAAGTCCACCAAGGCATCAGACTCAGCTCTGTATTTCTGTGCCAGCAGCCAGTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v21.4_f",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GACACTGAGGTCATCCAGAGTCCAGGTCATCTGGTCAAAGGAAAAGACCAGAAAGCAAAGATGGATTGTGTCCCCATAAAAGGACATGTTCATGTATACTGGTATCGCAAGAAGCCGGAAGGAGCATTTGAGTTTTTGGTTTACTTACAGAATCAAGACATTGTGGAAGACACAGAAGTATTTCAACAGCAGTTTTTGGCTCAGTGGCCCCAAAACTCACCCTGCAGCCTGGAAATCAAGTCCACCAAGGCAGCGGATTCAGCTCTGTATTTCTGTGCCAGCAGCCAGTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v21.5_f",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GACGCTGAAGTCACTCAGAGTCCAAGTCATCTGGTCAAAGGAAAAGGCCAGAAAGCAAAGATGGATTGTGTCCCCATAAAAGGACATATTAATGTTTATTGGTACCGCAGGAAGCTGGAAGAAGCATTAGAGTTCTTGGTTTACTTACAGAAGCAAGACATTGTGGAAGACACAGAAGTGTTCAAAGAGCAATTTTCAGCTCAGTGCCCCCAAAACTCGCCCTGCAGCCTGGAAATCAAGTCCACCAAGGCAGCGGACTCAGCTCTGTATTTCTGTGCCAGCAGCCAGTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v21.6_f",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GACACTGAGGTCACCCAGAGACCAAGTCATCTGATCAAAGGAAAAGACCAGAAAGCAAAGATGGATTGTGTTCCCAAAGAAGGACATCCTTACGTTTACTGGTATCGCAAGAAGTTGGAAGGAGCATTTGAGTTTTTGGTTTACTTTCAGAATCAAGACACTATGGAAGATACAGTCGAGTTCAAACAGCGATTTTCAGCTGAATGCCCCCAAAACTCACCCTGCAGCCTGGAAATCAAGTCCACCGAGGCAGCGGACTCGGCTCTGTATTTCTGTGCCAGCAGCCAGTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v22_f",
+    "range" : {
+      "from" : 0,
+      "to" : 280
+    },
+    "sequence" : "GATGCTGAAATCTACCAGATAGGATTTCTGCTCGCTGAGGCTGGCCAGGATGTGACCCTGGAGTGCAAACGGAACCTGGGCTACAGTGCCATGTACTGGTACCAGCAGGACCCAGGGCAGGGTCTGAAGCTGACTTATTACTCTACGCTTGAAACGGACATTCAGAGAGGAGACTTATCTGAAGGTTACAGTGTCTCTCGAGAGAAGAAGGAGCTGTTTCCTCTCACTGTGAAGTCTGCTCACACCAAGCAAACAGCCGTGTACCTCTGCTCCGGAGCAC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v24_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATACCGGTGTTACCCAGACCCCAAGAAATAGGATCGCAGTCACAGGAAAGAGCACTGTACTGGAATGTTCTCAGACTAAGGGCCATGAGTCTATGTACTGGTATCGACAGGACCCTGGACGGGGGCTCCGGCTGGTCTACTCCTCCTACGATATCAATGGTATTAACAAAGGAGATGTCTCTGCTGGGTACAATGTCTCTCGTAAGGAGAAGGCAAAATTCTCCCTCTACCTAGAGCCTGCTACCCCCAACCAGAAGGCCATTTACTTCTGTGCCAGCAGTATTTG"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v25_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATGCTGATGTTTACCAGACCCCAAGACACTGTGTGACAGGGACGGGAAGGAAGATTACTCTAGAATGTTCTCAAACTATGGGCCATGACAATATGTACTGGTATCAGCAAGACCCAGGAATGGAACTGCAGCTGATCCATTATTCATACGGGGTTAATACCACGGAGAAAGGAGAGCGCTCTTCTAGGTCGACTGTCTCCAGAATAAGCAAAGAGCATTTTCCCCTGACGCTAGAGACCGCCAGCTCCTCACAGACATCTAGCTACTTCTGCGCCAGCAGTGACTA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v26_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATGCTGCAGTCATACAGTTCCCAAGGCACCGGATCTTGAAGGCTGAAAAGGAATTCACTCTACAGTGTTCTCAGAAAATGAATCATTATGCAATGTACTGGTATCGCCAAGATCCGGGATTTGGACTTCAGCTGATCTATTATTCAACTGGCCCCGACACCTTTAAGAAAGGAGATGTCCCTGAGGGGTATCACGTCTCTCGAGATGAGCTGGACCATTTCCCCCTGACCCTGAAGTCCGCCAGCCCCAACCAGACATCTGTGTACTTCTGCGCCAGCACTGAATC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v28_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATGCACAAGTAACCCAAACTCCAAGATATCTGGTCAAAAGGAGGGGAGAGAAAGTTGTGATAGAATGTATGCAGAACATGGACCATGAGAGAATGTTCTGGTACCGACAAGACCCAGCTCTGGGGCTACGGCTGCTCCATTTCTCAATCAATGTTGACGTGCTTGAGGAAGGAGATGTGCCCTATGGGTACAGCGTCTCCAGAACAAAGAAGAAGAGCTTCCCTCTGACCCTGGAGTCTGCCACCACCAACCAGACGGCTATGTACCTCTGCGCCAGCAGTGAATC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v29_F",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GGTGCTCTCCTCTCTCAAAAGCCAAGCAGGGCCATCCGTCAACGTGGGACCTCCATGACGATCGAGTGTCAGGCCGATAGCCAGCTCAACTTCATGTACTGGTACCGTCAGCTTCCAGGACAGAGCTTGGTGCTGATGGCTACTGCCAATCAGGGCTCCAAGGCTACTTACGAGAGTGAGTTCACTGAGGACAAGTTTCCCATTAGCCGCCCGAACCTGGCGTTCTCAACTCTGACTGTGAGCAACGCGAGCTCCGAAGACAGCAGCTCTTATTTCTGCAGTGCTGGAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v2_F",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GTACCTGGTGTCAGCCAGAGCCCTCGCCACTACATCACAGAGATGGGATGGGATGTGACTCTGAGGTGTGACCCCATGCCTGGTCATTTGGACCTCTACTGGTACCGACAGACCCTGGGAAAGGGCATGGAGTTTCTGATGTCCATCTACAACAAAGAGCCTTCAGAAAAGGCACACTTTATGGAGGATTGCTTCTCAGCTGAGATGCCCGATGGAGCGTACCTCATTCTCAAGATGCAGCCTGCACAGCTAGGGGACTTGGCCATGTTTCTCTGTGCCAGCAGCTTGCC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v30_f",
+    "range" : {
+      "from" : 0,
+      "to" : 284
+    },
+    "sequence" : "GCTCAGACCATCCATCAATGGCCATCCACCAGGGTGCAGCCTGCAGGCAGCCCGCTCTCTCTGGAGTGCACCGTGAAGGGGACATCAAGCCCCAACCTGTACTGGTACCGGCAGGAGGCAGGGGGGAGCCTCCAGCTGCTCTTCTCCTCTGTTGGTGTTGACCAGATAGAACCTAGGGAGTTCCAGAACTTCGAAGCTTCCAGGCCCCAGGACGGCCAGTTCATCCTGAGTTCTAAGAAGCTGCAGCTCAATAACTCTGGCTTCTACCTCTGCGCCTGGAGTCT"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v4_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GACCCTGGGATCACTCAGATACCAAAATACCTAGTCATGGGAATGACGGACAAGAAATCTTTGAAATGTGAGCAACATCTGGGACATAATGCTATGTACTGGTATAAACAGAGCGCCCAGAAGCCGCCAGAGCTCATGTTCATCCACAGCTACATGAAACTCAGTGGAAATGAGAGTGTTCCAAGCCGCTTCTGGCCTGAATGCCCAGACAGCTCTCAGTGCCGCCTGGACCTGAGCGCCCCGAAACCACAGGACTCCGCCGTCTATCTCTGCGCCAGCAGTAGAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.12_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GAGTCTGAAGTCACCCAGACCCCCAAATACCTGATCAAATCAAGAAAGGAGAAAGTGACGCTGAGATGTTCTCCTAAATCTGGACACCGTTCTGTGTACTGGTATCAGCAGGCCCTGGGCCAGGGCCCCCAGTTCCTCGTTCAGTATTACAGTCAGCAAGTGAGCGGAGAAGCACAGCTCCCGGATCGATTCTCAGGAAAACAGTTTAGTGACTTTCACTCTGAGCTGAACTTGACTTCCTTGGAGCTGACAGACTCAGCCGTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.14_F",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGAGTCATCCAAACCCCAAGATACCTGATTAAAGCAAGAGGACAGCGAGGGACCCTGAGATGCTCCCCTGTCTCTGGACACCTCTCTGTGTACTGGTACCAACAGGCCCTGGGCCAGGGCCCCCAGTTCCTCGTTCAGTATTACAGCCAGAACGTGTATGGAGAAGCACAGCTCCCGGATCGATTCTCAGGAGAGCAGTTCAGTGACTCTAGCTCTGAGCTGAACTTGACTTCCTTGGAGCTGACGGACTCAGCTGTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.16_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGGGTCACCCAGACCCCCAAATACCTGATCAGATCAAGAAAACAGCAAGCAACGTTGAGATGTTCCCCTGAATCTGGACACCGCTATGTATCCTGGTACCAACAGGCCCTGGGACAGGGCCCTCAGTTCCTTGTTCAGTATTATGATGGGAAAGTGCATACAAAAGGGAACATGCCAGGTCAATTCTCAGGTGAACAGTTCAGTGATTCTCGCTCTCAGATGAACCTGAGCTCCTTGGAGCTGACAGACTCAGCCGTGTATCTCTGTGCCAGTAGGCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.17_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GAGTCTGAAGTCACCCAGACCCCCAAATACCTGATCAAATCAAGAAAGGAGCAAGTGACTCTGAGATGTTCCCCTAAATCTGGACACCGCTCTGTGTACTGGTATCAGCAGGCCCTGGGCCAGGGCCCCCAGTTCCTTGTTCAGTATTATGATGGGGAAATTTATCAAAAAGAAAACATATCAGATCGATTCTCAGGAAAACAATTCAGTGACGCTCGCTCTGAGCTGAGCTTGACCCCCTTGGAGCTGACAGACTCAGCCGTATATCTCTGTGCCAGCAGGCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.18_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGAGTCACCCAAACCCCAAGATACCTGATTAAAGCAAGAGGACAGCAAGGGACCCTGAGATGCTCCCCTGTCTCTGGACACCTCTCTGTGTACTGGTACCAACAGGCCCTTGGCCAGGGCCCCCAGTTCCTCGTTGAATATTACAACCAGGACGTGAGGGGAGAAACGAACCTTCCGGATCGATTCTCAGGAGAGCAGTTCAGTGACTCTAGCTCTGAGCTGAACTTGACTTCCTTGGAACTGAGGGACTCAGCTGTGTATCTCTGCGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.19_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGAGTCACCCAGACCCCCAAGTACCTGATCAAATCAAAGAAGCAGCAACTGACGCTGAGATGTTCCCCTGAGTTTGGACACCGCTATGTATCCTGGTATCAACAGGCCCTGGGGCAGGGCCCCCAATTCCTCATTCAGTATTACAACAGGGAAGTAAATGAGAAAGGAAACATACCAGATCGATTCTCAGAAAACCAGTTCAGTGACTCTCGCTCTGAGCTGAACTTGACTTCCTTGGAGCTGACGGACTCAGCTGTGTATCTCTGTGCCAGCAGCAAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.21_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGAGTCACCCAAACCCCAAGATACCTGATTAAAGCAAGAGGACAGCAAGGGACCCTGAGATGTTCCCCTGTCTCTGGACACCTCTATGTGTACTGGTACCAACAGGCCCTGGGCCAGGGCCCCCAGTTCCTCGTTCTGTATTACAGCCAGGACGTGTATGGAGAAGCACAGCTCCCAGATCGATTCTCAGGAAAACAGTTCAGTGACTCTAGCTCTGAGCTGAACTTGACTTCCTTGGAGCTGACGGACTCAGCTGTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.22_f",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "AATTCTGGACTCACCGTGACCCCCAAGTACCTGATCAAATCAAGGAAAGAGCACCTGACTCTGAGATGTTCCTCTGACTCTGGACACCGCTCTGTGTACTGGTACCAACAGGCCCTGGGCCAGAGCCCCCGATTCCTTTTTCAGTATTATGATGGGAAAGTATATCAAAAAGGAAACATATCAGATAAAGTCTCAGGAAAACAGTTCAGTGATGATGCTCGCTTTGAGCTGAGTTTGACCTCCTTGGAGCTGACAGACTCAGCCATGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.24_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGAGTCACCCAAACCCCAAGATACCTGATTAAAGCAAGAGGACAGCGAGGGACCCTGAGATGCTCCCCTGTCTCTGGACACCTCTCTGTGTACTGGTACCAACAGGCCCTGGGCCAGGGCCCCCAGTTCCTCGTTCAGTATTACAGCCAGGACGTGAGGGGAGAAGCACAGCTCCCAGATCGATTCTCAGGAAAACAGTTCAGTGACTCTAGCTCTGAGCTGAACTTGACTTCCTTGGAGCTGATGGACTCAGCCGTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.27_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGAGTCACCCAAACCCCAAGATACCTGATTAAAGCAAGAGGACAGCGAGGGACCCTGGGATGCTCCCCTGTCTCTGGACACCTCTCTGTGTACTGGTACAAACTGGTGCTGGGCCAGGGACCCCAGTTCCTCGTTCAGTATTATAGCCAGGACGTGTGGGGAGAAACGAACCTTCCGGATCGATTCTCAGGAGAGCAGTTCAGTGACTCTAGCTCTGAGCTGAACTTGACTTCCTTGGAGCTGATGGACTCAGCCGTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.29_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGGGTCACTCAGATCCCCAAATACCTGATCAAATCAAGAAAGCAGCAAGTGACTCTGAGATGTTCCCCTGAATCTGGACACCGCTATGTATCCTGGTACCAACAGGCCCTGGGCAAGAGCCCCCAGTTCCTTGTTCAGTATTATGATGGGAAAGTGCGTACAAAAGGAAACATGCCAGATCGATTCTCAGGTGAACAGTTCAGTGACTCTCGCTCTCAGATGAACCTGAGCGCCTTGGAGCTGACCGACTCAGCCATGTATCTCTGTGCCAGCAGGCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.2_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGAAGTCACCCAGACCCCCAAATACCTGATCAAATCAAGAAAGGAGCAAGCGACTCTGGGATGTTCCCCTGAATCTGGACACCGCTCTGTGAACTGGTACCAACAAGCCCTGGGCCAGGGCCCCCGGTTCCTCGTTCAGTATTACCGCGGACAAGTTAGTGGAGAAGAAAACATGCCAGATCGATTCTCAGCAAAACAATTTAGTGACTTTCGCTCTGAGCTGAATTTGAGCTCCTTGGAGCTGACAGACTCAGCCGTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.30_f",
+    "range" : {
+      "from" : 0,
+      "to" : 286
+    },
+    "sequence" : "GAGGCTGAAGTCACCCAAACTCCAAGACACTTGATCAAAACGAAGGGACAGACAGCGACCCTGAGATGTTCTCCTATGTCTGGACACAGCAGTGTATCTTGGTACCAACAGGCCCGGAGTCAGGGCCCCCAGTTCCTCTTTGAGTTTTATGAAACTCTGCAAAGAGATAAAGGAAACTTTTCGAATCGGTTCTCAGCAAAACAGTTCCGCGACTTTAGCTCTGAGCTGAACGTGAACTTCTTGGAGCTGACAGACTCTGCCCTGTACCTCTGTGCCAGCAGCTTAG"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.3_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGAAGTCACCCAGACCCCCAAATACCTGATCAAATCAAGAAAGCAGCAAGCGACTCTGAGATGTTCCCCTGAGTCTGGACACTTCTCTGTGTACTGGTACCAACAGGTCCTGGGCCAGGGCCCCCAGTTCCTCGTTCAGTATTACAACCAGAAAGTGAGCGGAGAAGCTCACCTCCCGGATCGATTCTCAGGAAAACAGTTCAGTGACTCTCGCTCTGAGCTGAACCTGAGCTCCTTGGAGCTGATGGACTCCGCCATGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.5_f",
+    "range" : {
+      "from" : 0,
+      "to" : 278
+    },
+    "sequence" : "GATTCTGAAGTCACCCAGACCCCAAAATTCCTGACCAAATCAAGAAAACAGCAAGTGACACTGAGATGTTCCCCTGAATCTGGACACCGCTCTGTGTACTGGTTCCAACAGGCCCTGGGCCAGGGCCCCCAGTTCCTCGTTCAGTATTTTGATGGAAAAGTGTATCAAAGAGGAAACATGTCAGATCGATTCTCAGGTCAACAGTCAGGCTCGGAGTTGAACTTGACCTCCTTGGAGCTGATGGACTCTGCTCTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.6_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "TATTCTGGGGTCACCCAGACCCCCAAATACCTGATCAAATCAAGAAAGCAGCAAGGGATTCTGAGATGTTCCCCTGAATCTGGACACCTCTATGTATCCTGGTACCAACAGGCCCTGGGACAGGGCCCCCAATTCCTTGTTCAATATTATGATGGGAAAGTCCGTACAAAAGGAAACATGCCAGATCGATTCTCAGGTGAACAGTTCAGTGACTCTCACTCTCAGATGAACCTGAGCTCCTTGAAGCTGTCGGACTCAGCCGTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.8_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGAAGTCACCCAGACCCCCAAGTACCTGATCAAATCAAGAAAGCAGCAAGCAATGCTGAGATGTTCCCCTGAGCCTGGACACCTATCTGTGTACTGGTACCAACAGGCCCTGGGCCAAGGCCTCCAATTCCTCATTCAATATTACAATAGGGCAGAGAATGAGAAAGGAAACATACCAGATCGATTCTCAGGAAAACAGTTCAGTGACTCTAGCTCTGAGCTGAACGTGACTTCCTTGGAGCTGACGGACTCAGCCGTGTATCTCTGTGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v5.9_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "GATTCTGGAGTCACCCAAACCCCAAGATACCTGATTAAAGCAAGAGGACAGCGAGGGACCCTGAGATGCTCCCCTGTCTCTGGACACCTCTCTGTGTACTGGTACCAACAGGCCCTGGGCCAGGGACCCCAGTTCCTCGTTCAGTATTACAGGCAGGAAGTGAGCGGAGAAGCACAGCTCCCAGATCGATTCTCAGGAAAACAGTTTGGTGACTTTCACTCTGAGCTGAACTTGACTTCCTTGGAGCTGACGGACTCAGCCGTGTATCTCTGCGCCAGCAGCCAAGA"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.11_F",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CATGCTGGTGTCACTCAGGACCCCAGATTCCAGGTCGTGAGGACAGGGCAGAGGGTGACACTGAGATGCACTCAGGATCTGAGCCACGATTATATGTACTGGTACCGACTAGACCTGGGACACGGGCTGAGGCTGATCCATTACTCAGCTGCTGCTCCCAACACGGAGAAAGGAGACGTGCCCAAGGGCTACAGCATCTCCAGACCAAGCACAGAGGACTTCCCTCTCACGCTGGAGTCTGCCAACCGCTCCCAGACATCTGTGTACTTCTGCGCCAGCAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.16_F",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CGTGCTGGTGTCACTCAGGACCCCAGATTCCAGGTCGTGAGGACAGGGCAGAACGTGACACTGAAATGTACTCAGGATCTGGGTCATAACTCTATGTACTGGTACCGACAAGACCCGGGGCATGGGTTGAGGCTGATCCATTACTCACGTGGCCCTCCCAGCACGGAGAGAGGAGACGTGCCCGACGGGTACAGCGTCTCCAGATCAAGCAAAGAGAACTTTCCTCTCACGCTGGAGTCTGCCAACCCCTCCCAGACATCCGTGTACTTCTGTGCCAGCAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.17_F",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CATGCTGGTGTCACTCAGGCCCCCAGATTCCAGGTGGTGAGGACAGGACAGAACGCAACACTGACATGTACTCAGGACCTGGGTCATGACCCCATGTACTGGTACCGACAAGACCTGGGACATGGGCTGAGGCTGATCCATTACTCAGCTGGGCCTCCCAGCACAGAGAAAGGAGATGTGCCCGACGGGTACAGAGTCTCCAGATCAAGCAAAGAGAACTTCCCTCTCACGCTGGAGTCCGCCAGCCGCTCCCAGACATCTGTGTACTTCTGTGCCAGCAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.18_F",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CATTCTGGTGTCACTCAGGTCCCCAGATTCCAGGTTGTGAGGACAGGACAGAGGGTGACACTGAAATGTACTCAGAATCTGGATCATAATTCTATGTACTGGTACCGACAAGACCCGGGAAATGGGTTGAGGCTGATCCATTACTCACGTGGGCCTCCGACCACAGAGAAAGGAGACATGCCCGACGGGTACAGCGTCTTCAGATCAAGCAAAGAGAACTTTCCTCTCATGCTGGAGTCCGCCAACCCCTCCCAGACATCCGTGTACTTCTGTGCCAGCAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.19_F",
+    "range" : {
+      "from" : 0,
+      "to" : 286
+    },
+    "sequence" : "CATGCTGGTGTCACTCAGGACCCCGGATTCCAGGTGGTGAGGACAGGAGAGAGCGCGACACTGAGATGCACTCAGGATCTGAGCTTTAGCTATATGTACTGGTACCGACAAGACCCGGGACACGGGCTGAGGCTGATCCATTACTCAGTTATCCCTCCCGCCACGGAGAAAGGAGCCGTGCCCGAGGGCTACAGCGTCTCCAGACCAAGCACAGAGAACTTCCCTCTCACGCTGGAGTCCGCCAACGCCTCCCAGACATCTGTGTACTTCTGCTCCTGCGGTTATC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.1_F",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CATGCTGGTGTCACTCAGGACCCCAGATTCCAGGTGGTGAGGACAGGACAGAGGGTGACACTGAGATGCACTCAGGATCTGAACTATGATTATATGTACTGGTACCGACAAGACCCAGGACACGGGCTGAGGCTGATCCATTACTCAGATGGCCCTCCCGCCACGGAAAAGGGAGACGTGCCTGACGGGTACAATGTCTCCAGACCAAGCACAGAGGACTTCCCTCTCACGCTGGAGTCTGCCAGCCGCTCCCAGACATCTGTGTACTTCTGCGCCAGCAGTTACCC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.20_orf",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CATGCAGGTGTCACTCAGGACCCCAGATTCCAGGTCGTGAGGACAGGACAGAGCACAACACTGAAATGTACTCAGGATCTGGGTCAAAACTCAATGTACTGTTACCGACAAGACCTGGGACTTGGGCTGAGGCTGATCCATTACTCAGCTGCCTATCCCACCACGGTGAAAGGAGACGTGCCCGAGGGCTACAGCGTCTCCAGACCGAGCACAGAGGACTTCCCTCTCACGCTGAAGTCTGCCAACCGCTCCCAGACATCTGTGTACTTCTGTGCCAGCAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.23_orf",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CATGCAGGTGTCACTCAGGACCCCAGATTCCAGGTCATGACGACAGGACAGAGCATGACACTGAAATGTACTCAGGATCTGGATCATAACTCTATGTACTGGTACCGACAAGACCCGGGACATGGGTTGAGGCTGATCCATTACTCACGTGGCCCTCCCAGCACGGAGAGAGGAGACGTGCCCGACGGGTACAGCGTCTCCAGATCAAGCAAAGAGAACTTTCCTCTCACGCTGGAGTCTGCCAACCCCTCCCAGACATCCGTGTACTTCTGTGCCAGCAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.26_f",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CATGCAGGTGTCACTCAGGCCCCCAGATTCCAGGTCATGAGAACAGGACAGAACGCGACACTGAAATGTACTCAGGATCTGGGGCATGACTGCATGTGCTGGGACCAACAAGACCTGGGACACGGGCTGAGGCTGATCCACCACTCAGCTGGGCCTCCCACCACTGAGAAAGGAGACGTGCCTGACGGGTACAGAGTCTCCAGATCAAGCAAAGAGAACTTCCCTCTCACGCTGGAGTCTGCCAGCCACTCCCAGACATCCGTGTACTTCTGTGCCAACAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.28_f",
+    "range" : {
+      "from" : 0,
+      "to" : 284
+    },
+    "sequence" : "CATGCTGGTGTCTCTCAGGACCCCAGATTCCAGGTGGTGAGAACAGGACAGAATGCAACACTGAAATGTACTCAGGATCTGGGTCATGACGGCATGTACTGGTACCAAGACCTGGGACACGGGCTGAGGCTGATCCATTACTCAGCTGGGCCTCCCAGCACAGAGAAAGGAGATGTGCCCGATGGGTACAGAGTTTCCAGATCAAGCAAAGAGAACTTCCCTCTCACACTGGAGTCCGCCAGCCGCTCCCAGACATCTGTGTACTTCTGTGCCAGCAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.29_f",
+    "range" : {
+      "from" : 0,
+      "to" : 286
+    },
+    "sequence" : "CATGCTGGTGTCACTCAGGACCCCAGATTCCAGGTCGTGAGGACAGGACAGAGGGCAACACTGAAATGTACTCAGGATCTGAACCACGACAGCATGTACTGGTACCGACAAGACCCGGGACACGGGCTGAGGCTGATTCATTACTCATCTTTCACTGACGCCACTTATAAAGGAGATGTGCCTGATGGGTACAACGTCTCCAGATCAAGCACAGAGAACTTCCCTCTCACGCTGGAGTCCGCCAACCCCTCCCAGACATCTGTGTACTTCTGCGCCAGCAGTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.5_F",
+    "range" : {
+      "from" : 0,
+      "to" : 286
+    },
+    "sequence" : "CATGCTGGTGTCACTCAGGACCCCGGATTCCAGGTGGTGAGGACAGGAGAGAGCGCGACACTGAGATGCACTCAGGATCTGAGCTTTAGCTATATGTACTGGTACCGACAAGACCCCGGACACGGGCTGAGGCTGATCCATTGCTCAGTTATCCCTCCCGCCACGGAGAAAGGAGCCGTGCCCGAGGGCTACAGCGTCTCCAGACCAAGCACAGAGAACTTTCCTCTCACGCTGGAGTCCGCCAACGCCTCGCAGACATCTGTGTACTTCTGCTCCTGCGGTTATC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v6.6_F",
+    "range" : {
+      "from" : 0,
+      "to" : 287
+    },
+    "sequence" : "CATGCTGGTGTCACTCAAGACCCCAGATTCCAGGTCATGAGGACAGGACAGAACGTGACACTGAAATGTACTCAGGATCTGGGTCATGACCCCATGTACTGGTACCGACAAGACCCGGGACCCGGGCTGAGGCTGATCCATTACTCAGCCGGGCCTCCCACCATGGTTCAAGGAGACGTGCCCGACGGGTACAGTGTCTCCAGGTCAAGCAAAGAGAACTTTCCTCTCATGCTGGAGTCTGCCAACCTCTCCCAGACATCTGTGTATTTCTGCGCCAGCAGTTACTC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v7.1_f",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GCTGGAGTAGTGTCCCAGTCCCCCAGGCACAGGGTCGCAGGGAGGGGCCAGAATGTGACTCTTAGGTGTGATCCAATTTCCGGTCATATTTCCCTTTATTGGTACCGACAGACGCTGGGGCAGGGCCCGGAGTTTCTGACTTACTTTCAAAACGAGCAAGAACTAGACAAATCAGGGATGCCTAAAAACAGGTTTTCTGCTAAGAGGCCTCAGAGCACGTACTCCTATCTGAATATCCAGCCAGCGGAGCCTGGGGACTCGGCCGTGTATCTCTGTGCCAGCAGCCCAAC"
+  }, {
+    "uri" : "file://seq/chircus_v_genes_fixed.fa#v7.2_F",
+    "range" : {
+      "from" : 0,
+      "to" : 290
+    },
+    "sequence" : "GCTGGAGTAGTGTCCCAGTCACCTGGGTACAGGGTCACAGGGAGGGGCCAGAATGTGACTCTAAGGTGTGATCCAATTCCTGGTCACCAAGTCCTTTACTGGTACCGACAGATGCTGGGGCAGGGTCCGGAGTACCTGACTTATTTTCAGGGCAAGGAGGAACCAGACAAATCAGGAATGCCTAAAAACCGGTTTTCTGCTGAGAGGCCTGAGAGCACGTACTCCTATCTCAAGATCCAGCCAGTGGAGCCCAAGGACTCAGCCGTGTATCTCTGTGCCAGCAGCCCAAC"
+  } ],
+  "checksumVersion" : 1
+} ]
